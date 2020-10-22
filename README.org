@@ -1,4 +1,4 @@
-# ErrorStateKalmanFilter
+* ErrorStateKalmanFilter
 
-[![Build Status](https://github.com/dlozeve/ErrorStateKalmanFilter.jl/workflows/CI/badge.svg)](https://github.com/dlozeve/ErrorStateKalmanFilter.jl/actions)
-[![Coverage](https://codecov.io/gh/dlozeve/ErrorStateKalmanFilter.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/dlozeve/ErrorStateKalmanFilter.jl)
+[[https://github.com/dlozeve/ErrorStateKalmanFilter.jl/actions][https://github.com/dlozeve/ErrorStateKalmanFilter.jl/workflows/CI/badge.svg]]
+[[https://codecov.io/gh/dlozeve/ErrorStateKalmanFilter.jl][https://codecov.io/gh/dlozeve/ErrorStateKalmanFilter.jl/branch/master/graph/badge.svg]]
